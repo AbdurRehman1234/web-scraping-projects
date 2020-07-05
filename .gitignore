@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea
+first.py
+*.log
+*.txt
+venv
+*.py
